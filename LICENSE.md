@@ -401,9 +401,3 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
-Beta
-0 / 0
-used queries
-
-
-1
